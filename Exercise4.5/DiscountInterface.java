@@ -1,0 +1,7 @@
+
+interface DiscountInterface {
+
+	double DiscountRate();
+	
+
+}
